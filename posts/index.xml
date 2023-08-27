@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hrishikesh S Namputiri</title>
+    <link>https://HrishikeshSNamputiri.github.io/posts/</link>
+    <description>Recent content in Posts on Hrishikesh S Namputiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2023 22:22:13 +0530</lastBuildDate><atom:link href="https://HrishikeshSNamputiri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How did I made the website</title>
+      <link>https://HrishikeshSNamputiri.github.io/posts/post-1/</link>
+      <pubDate>Sun, 27 Aug 2023 22:22:13 +0530</pubDate>
+      
+      <guid>https://HrishikeshSNamputiri.github.io/posts/post-1/</guid>
+      <description> Install Hugo Link to heading sudo pacman -S hugo
+Create two repo named .github.io and blog Link to heading Link to heading </description>
+    </item>
+    
+  </channel>
+</rss>
