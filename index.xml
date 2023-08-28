@@ -13,8 +13,8 @@
       <pubDate>Sun, 27 Aug 2023 22:22:13 +0530</pubDate>
       
       <guid>https://HrishikeshSNamputiri.github.io/posts/post-1/</guid>
-      <description> Install Hugo Link to heading sudo pacman -S hugo
-Create two repo named .github.io and blog Link to heading Link to heading </description>
+      <description>1) Install Hugo Link to heading sudo pacman -S hugo
+2) Create two repo named .github.io and blog Link to heading 3) Clone these two repositories, make a README.md in .github.io and make an initial commit and push. Link to heading 4) Create a hugo site in blog repo. Download the theme you want from hugo themes website and move it to themes directory of the hugo site. Link to heading 5) In hugo.</description>
     </item>
     
     <item>
