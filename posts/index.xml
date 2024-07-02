@@ -4,18 +4,16 @@
     <title>Posts on Hrishikesh S Namputiri</title>
     <link>https://HrishikeshSNamputiri.github.io/posts/</link>
     <description>Recent content in Posts on Hrishikesh S Namputiri</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 22:22:13 +0530</lastBuildDate><atom:link href="https://HrishikeshSNamputiri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 22:22:13 +0530</lastBuildDate>
+    <atom:link href="https://HrishikeshSNamputiri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How did I made the website</title>
-      <link>https://HrishikeshSNamputiri.github.io/posts/post-1/</link>
+      <link>https://HrishikeshSNamputiri.github.io/posts/post-2/</link>
       <pubDate>Sun, 27 Aug 2023 22:22:13 +0530</pubDate>
-      
-      <guid>https://HrishikeshSNamputiri.github.io/posts/post-1/</guid>
-      <description>1) Install Hugo Link to heading sudo pacman -S hugo
-2) Create two repo named .github.io and blog Link to heading 3) Clone these two repositories, make a README.md in .github.io and make an initial commit and push. Link to heading 4) Create a hugo site in blog repo. Download the theme you want from hugo themes website and move it to themes directory of the hugo site. Link to heading 5) In hugo.</description>
+      <guid>https://HrishikeshSNamputiri.github.io/posts/post-2/</guid>
+      <description>1) Install Hugo Link to heading sudo pacman -S hugo&#xA;2) Create two repo named .github.io and blog Link to heading 3) Clone these two repositories, make a README.md in .github.io and make an initial commit and push. Link to heading 4) Create a hugo site in blog repo. Download the theme you want from hugo themes website and move it to themes directory of the hugo site. Link to heading 5) In hugo.</description>
     </item>
-    
   </channel>
 </rss>

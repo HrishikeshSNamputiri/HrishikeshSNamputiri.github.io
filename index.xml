@@ -4,45 +4,37 @@
     <title>Hrishikesh S Namputiri</title>
     <link>https://HrishikeshSNamputiri.github.io/</link>
     <description>Recent content on Hrishikesh S Namputiri</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 22:22:13 +0530</lastBuildDate><atom:link href="https://HrishikeshSNamputiri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 22:22:13 +0530</lastBuildDate>
+    <atom:link href="https://HrishikeshSNamputiri.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How did I made the website</title>
-      <link>https://HrishikeshSNamputiri.github.io/posts/post-1/</link>
+      <link>https://HrishikeshSNamputiri.github.io/posts/post-2/</link>
       <pubDate>Sun, 27 Aug 2023 22:22:13 +0530</pubDate>
-      
-      <guid>https://HrishikeshSNamputiri.github.io/posts/post-1/</guid>
-      <description>1) Install Hugo Link to heading sudo pacman -S hugo
-2) Create two repo named .github.io and blog Link to heading 3) Clone these two repositories, make a README.md in .github.io and make an initial commit and push. Link to heading 4) Create a hugo site in blog repo. Download the theme you want from hugo themes website and move it to themes directory of the hugo site. Link to heading 5) In hugo.</description>
+      <guid>https://HrishikeshSNamputiri.github.io/posts/post-2/</guid>
+      <description>1) Install Hugo Link to heading sudo pacman -S hugo&#xA;2) Create two repo named .github.io and blog Link to heading 3) Clone these two repositories, make a README.md in .github.io and make an initial commit and push. Link to heading 4) Create a hugo site in blog repo. Download the theme you want from hugo themes website and move it to themes directory of the hugo site. Link to heading 5) In hugo.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://HrishikeshSNamputiri.github.io/contact/</link>
       <pubDate>Sun, 27 Aug 2023 16:34:05 +0530</pubDate>
-      
       <guid>https://HrishikeshSNamputiri.github.io/contact/</guid>
       <description>Email: hrishikeshsnamputiri@gmail.com</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>https://HrishikeshSNamputiri.github.io/projects/</link>
       <pubDate>Sun, 27 Aug 2023 16:33:54 +0530</pubDate>
-      
       <guid>https://HrishikeshSNamputiri.github.io/projects/</guid>
       <description>AMFOSS-TASKS - https://github.com/HrishikeshSNamputiri/amfoss-tasks/</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://HrishikeshSNamputiri.github.io/about/</link>
       <pubDate>Sun, 27 Aug 2023 16:33:42 +0530</pubDate>
-      
       <guid>https://HrishikeshSNamputiri.github.io/about/</guid>
       <description>My name is Hrishikesh S Namputiri, a first year student persuing B.Tech in Robotics and Artificial Intelligence in Amrita Viswa Vidyapeetham, Amritapuri. I am a linux nerd and I love programming. This is my first protfolio website and I think it looking is pretty good.</description>
     </item>
-    
   </channel>
 </rss>
